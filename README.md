@@ -4,3 +4,10 @@ Rescue City revolves around YOU trying to save buildings (the occupants too) and
 The game is controlled by cycles, not time. Which means that for the game to proceed and for something new to happen you need to click on the 'Next Cycle' button.
 When a rescue unit arrives to a building or a person, they will turn yello. When it starts rescuing, it will turn green. If a building collapses or a person dies, you will see that clearly on the map too.
 
+![Screenshot](https://github.com/danielashrafk/rescue-city/blob/master/RescueSimulation-M2/r2.png)
+
+![Screenshot](https://github.com/danielashrafk/rescue-city/blob/master/RescueSimulation-M2/r1.png)
+
+![Screenshot](https://github.com/danielashrafk/memories-project/blob/main/client/public/memories%20-%201.png)
+
+![Screenshot](https://github.com/danielashrafk/memories-project/blob/main/client/public/memories%20-%201.png)
