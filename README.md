@@ -1,6 +1,6 @@
 # Rescue City (Java & Swing)
 
-Clone it and run "controller\CommandCenter.java" in Eclipse.
+Clone it and then open it in Eclipse IDE and run "controller\CommandCenter.java".
 
 Rescue City revolves around YOU trying to save buildings (the occupants too) and people from disasters. When you click on any building or person, you can find all the information about the disaster happening to them in the information panel. You then need to click on the right rescue unit and then click on a building or a person to make the rescue unit respond. If you make an ambulance respond to a fire disaster, you will get a message displaying that it's not the right rescue unit to respond.
 The game is controlled by cycles, not time. Which means that for the game to proceed and for something new to happen you need to click on the 'Next Cycle' button.
